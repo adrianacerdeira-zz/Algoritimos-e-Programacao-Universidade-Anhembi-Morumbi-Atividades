@@ -1,4 +1,4 @@
-# Atividade 3 - UAM - Algorítimos e Programação
+# Atividade 2 - UAM - Algorítimos e Programação
 
 ### Nota recebida: 10
 
